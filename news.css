@@ -1,0 +1,45 @@
+body{
+    background-color: #0C5045;
+}
+body header p{
+    margin-left: 80px;
+    color: #fff;
+    font-family: Roboto Condensed;
+    font-size: 27px;
+    margin-top: 0px;
+}
+iframe{
+    margin-left: 30px;
+    width: 400px;
+    height: 200px;
+    margin-top: -30px;
+}
+body section .iframe-bottom{
+   padding: 40px;
+   margin-left: -10px;
+}
+body section .iframe-bottom2{
+    padding: 40px;
+    margin-left: -50px;
+}
+body section .iframe-bottom3{
+    position:absolute;
+    margin-top: 10px;
+    margin-left: -6px;
+}
+
+.link-logo{
+    position:absolute;
+    bottom: 0px;
+    right: 0px;
+    margin-right: 60px;
+    margin-bottom: 25px;
+    word-spacing: 15px;
+}
+footer{
+    position: absolute;
+    margin-bottom: 10px;
+    bottom: 0px;
+    margin-left: 30px;
+    color: rgb(252, 245, 245);
+}
